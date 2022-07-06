@@ -1,6 +1,6 @@
 # Ebay
 Sprint 1 implementation .
-Group-2 Topicc-Grocery Stores
+Group-2 Topicc-Ebay
 Members-
 1.Harsha Lodwal
 2.Hema Marella
